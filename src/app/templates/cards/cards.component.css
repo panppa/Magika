@@ -1,0 +1,20 @@
+.xmlTxt{
+    width: 50%;
+    height: 2000px;
+    margin: 20px;
+}
+.page{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.conteudo{
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+
+}
